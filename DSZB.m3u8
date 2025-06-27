@@ -1,3 +1,7 @@
-#EXTM3U
-#EXTINF:-1 group-title="ZBDS" ,C+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 DSZB-group="DSZB" tvg-id="DSZB/C+" provider-type="iptv",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+#EXTINF:2 DSZB-group="DSZB" tvg-id="DSZB/美亚电影台" provider-type="iptv",美亚电影台
+https://stream1.freetv.fun/3e4d57872642c49895b2bca6e9eaf20b49308979bc2403430e790ad30054da57.m3u8
