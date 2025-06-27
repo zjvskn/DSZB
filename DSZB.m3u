@@ -5,3 +5,15 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:2 DSZB-group="DSZB" tvg-id="DSZB/美亚电影台" provider-type="iptv",美亚电影台
 https://stream1.freetv.fun/3e4d57872642c49895b2bca6e9eaf20b49308979bc2403430e790ad30054da57.m3u8
+
+#EXTINF:3 DSZB-group="DSZB" tvg-id="DSZB/凤凰香港台" provider-type="iptv",凤凰香港台
+https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+
+#EXTINF:4 DSZB-group="DSZB" tvg-id="DSZB/凤凰电影" provider-type="iptv",凤凰电影
+https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
+
+#EXTINF:5 DSZB-group="DSZB" tvg-id="DSZB/凤凰资讯" provider-type="iptv",凤凰资讯
+https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
+
+#EXTINF:6 DSZB-group="DSZB" tvg-id="DSZB/凤凰中文" provider-type="iptv",凤凰中文
+https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
